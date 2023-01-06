@@ -3,6 +3,13 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.header {
+  text-align: right;
+}
+.about-me {
+  
+}
+
 
 .profile-picture {
   border-radius: 50%;
