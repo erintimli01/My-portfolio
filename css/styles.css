@@ -34,5 +34,9 @@ body {
 }
 
 .state {
-  color: aqua;
+  color: rgb(43, 152, 152);
+}
+
+.spacing {
+  margin: -20px;
 }
