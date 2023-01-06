@@ -10,6 +10,16 @@ body {
   
 }
 
+.column {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 30px;
+  margin: 10px;
+  text-align: center;
+  float: left;
+}
+
 .profile-picture {
   border-radius: 50%;
   width: 150px;
