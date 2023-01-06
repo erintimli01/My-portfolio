@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(106, 198, 106);
+}
+
+
+.profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 250px;
+}
+
