@@ -7,9 +7,8 @@ body {
 .header {
   text-align: center;
 }
-.about-me {
-  
-}
+
+
 
 .column {
   background-color: lightgrey;
@@ -34,3 +33,6 @@ body {
   height: 250px;
 }
 
+.state {
+  color: aqua;
+}
