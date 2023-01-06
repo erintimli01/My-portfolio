@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(106, 198, 106);
+  background-color: rgb(141, 207, 141);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -8,11 +8,6 @@ body {
 }
 .about-me {
   
-}
-
-.column {
-  width: 300px;
-  float: left;
 }
 
 .profile-picture {
