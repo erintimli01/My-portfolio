@@ -22,6 +22,8 @@
 
 ## License
 
+* [MIT](license.txt)
+
 _If you run into any problems or have questions please contact Erin Timlin_
 
 Copyright (c) _January 6, 2023_ _Erin Timlin_
