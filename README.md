@@ -22,6 +22,6 @@
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run into any problems or have questions please contact Erin Timlin_
 
 Copyright (c) _January 6, 2023_ _Erin Timlin_
