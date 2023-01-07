@@ -9,13 +9,10 @@
 * _HTML_
 * _CSS_
 
-## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
 ## Setup/Installation Requirements
 
-* _Open your browser and go to (https://erintimli01.github.io/My-portfolio/)_
+* _Open your browser and go to (https://erintimli01.github.io/My-portfolio/) or access (https://github.com/erintimli01/My-portfolio)_
 
 
 ## Known Bugs
