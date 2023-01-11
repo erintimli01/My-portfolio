@@ -4,6 +4,8 @@
 
 #### _A portfolio for Erin Timlin_
 
+#### _This is a homepage for my portfolio. In it, you'll find a little information about me, my interests, some of the projects I've worked on and different ways to contact me!_
+
 ## Technologies Used
 
 * _HTML_
